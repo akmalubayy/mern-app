@@ -75,7 +75,6 @@ Button.propTypes = {
     target: propTypes.string,
     href: propTypes.string,
     className: propTypes.string,
-    isExternal: propTypes.bool,
     isDisabled: propTypes.bool,
     isLoading: propTypes.bool,
     isPrimary: propTypes.bool,
